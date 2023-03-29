@@ -1,7 +1,7 @@
 # HLTV-helper
 This app only works with the [HLTV.org](https://www.hltv.org) website.
 
-_WORKS ONLY IN WINDOWS!_
+_WORKS ONLY IN OS WINDOWS!_
 
 **⚠️WARNING**: Be careful using this app! Abusing it can result in an IP address being banned from HLTV.
 
