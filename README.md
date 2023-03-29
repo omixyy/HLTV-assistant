@@ -1,2 +1,2 @@
 # hltv-helper
-TODO
+This app only works with the HLTV.org website.
