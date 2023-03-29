@@ -49,7 +49,6 @@ class Events:
 
     # Метод, реализующий получение статистики команд
     def get_stats(self, parse, tstv):
-        # print(parse.find("h1", {"class": "profile-team-name text-ellipsis"}))
         tstv['name'] = parse.find("h1", {"class": "profile-team-name text-ellipsis"}).text
         tstv['rank'] = int(list(
             parse.find_all("div", {"class": "profile-team-stat"})
@@ -116,6 +115,7 @@ class Events:
         matches_links = [v for k, v in self.teams_to_links.items()]
         all_responses = (grequests.get(url) for url in matches_links)
         mapped_responses = grequests.map(all_responses)
+
         for resp in mapped_responses:
             soup = BeautifulSoup(resp.content, 'html.parser')
             self.get_stats(soup, tstv)
