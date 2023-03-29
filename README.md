@@ -3,6 +3,8 @@ This app only works with the [HLTV.org](https://www.hltv.org) website.
 
 _WORKS ONLY IN WINDOWS!_
 
+**⚠️WARNING**: Be carful using this app! Abusing it can result in an IP address being banned from HLTV.
+
 ### FEATURES
 
 1) You can compare any players
@@ -26,3 +28,4 @@ To start the program:
 
    **YOU'VE DONE IT!**
 
+Maybe I will add some more features to this app later
