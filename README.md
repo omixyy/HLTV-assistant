@@ -1,4 +1,4 @@
-# hltv-helper
+# HLTV-helper
 This app only works with the [HLTV.org](https://www.hltv.org) website.
 
 _WORKS ONLY IN WINDOWS!_
