@@ -3,7 +3,7 @@ This app only works with the [HLTV.org](https://www.hltv.org) website.
 
 _WORKS ONLY IN WINDOWS!_
 
-**⚠️WARNING**: Be carful using this app! Abusing it can result in an IP address being banned from HLTV.
+**⚠️WARNING**: Be careful using this app! Abusing it can result in an IP address being banned from HLTV.
 
 ### FEATURES
 
