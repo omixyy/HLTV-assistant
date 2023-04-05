@@ -25,7 +25,7 @@ Corr = Corrector()
 Evt = Events()
 print('DO NOT try to compare teams/players without statistics by past 3 months!')
 
-# Запуск цикла
+# Запуск главного цикла
 while True:
     # Пользователь выбирает одно из предложенных ему действий в каждом вводе
     question1 = input('1 - compare players\n2 - compare teams\n'
