@@ -33,3 +33,5 @@ But please remember that life is always more than statistics.
 Don't trust this program for 100%❗
 
 Maybe I will add some more features to this app later (No time for it now :( )
+
+*GUI is coming!*
