@@ -41,7 +41,7 @@ class Events:
     # Ввод номера ивента
     def input_event(self):
         event_num = input('Input the number of event -> ')
-        while event_num not in list(map(lambda x: str(x), range(1, self.counter))):
+        while event_num not in list(map(str, range(1, self.counter))):
             event_num = input('No such event!\nPlease input the number of event again: ')
         self.event = self.counter_to_event[int(event_num)]
         self.event_link = self.events_to_links[self.event]
